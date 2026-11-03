@@ -58,7 +58,7 @@ blog_section_path = "/blog"
 color_scheme = "light"
 back_link_text = "Back"
 
-footer_copyright = "© 2026 Smileyhojin"
+footer_copyright = ""
 footer_credits = false
 
 not_found_error_text = "404 Not Found"
