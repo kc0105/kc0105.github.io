@@ -1,6 +1,6 @@
 #:tombi schema.strict = false
 
-base_url = "https://smileyhojin.com"
+base_url = "https://two-drifters.com"
 title = "Smileyhojin"
 description = "Smileyhojin's webpage."
 default_language = "en"
