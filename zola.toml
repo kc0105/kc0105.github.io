@@ -1,8 +1,8 @@
 #:tombi schema.strict = false
 
 base_url = "https://kc0105.github.io/two-drifters.github.io/"
-title = "Smileyhojin"
-description = "Smileyhojin's webpage."
+title = "two drifter"
+description = "two drifter's webpage"
 default_language = "en"
 theme = "serenity"
 output_dir = "public"
