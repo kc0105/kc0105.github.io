@@ -46,7 +46,7 @@ nav = [
 
 name = "Two Drifters"
 handle = "two-drifters"
-bio = "I'm crossing you in style someday"
+bio = "Beautiful are the things that do not linger."
 links = [
   { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/smileyhojin/" },
   { name = "GitHub", icon = "github", url = "https://github.com/Smileyhojin" },
