@@ -50,7 +50,6 @@ bio = "Beautiful for not lingering"
 links = [
   { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/smileyhojin/" },
   { name = "GitHub", icon = "github", url = "https://github.com/kc0105" },
-  { name = "Email", icon = "email", url = "mailto:smileyhojin@snu.ac.kr" },
 ]
 
 blog_section_path = "/blog"
