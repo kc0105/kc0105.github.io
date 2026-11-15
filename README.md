@@ -1,4 +1,4 @@
-# Smileyhojin's blog
+# KC's blog
 
 Built with Zola and the Serenity theme submodule.
 
