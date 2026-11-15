@@ -47,10 +47,7 @@ nav = [
 name = "Two Drifters"
 handle = "two-drifters"
 bio = "Beautiful for not lingering"
-links = [
-  { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/smileyhojin/" },
-  { name = "GitHub", icon = "github", url = "https://github.com/kc0105" },
-]
+links = []
 
 blog_section_path = "/blog"
 
