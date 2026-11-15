@@ -47,7 +47,9 @@ nav = [
 name = "Two Drifters"
 handle = "two-drifters"
 bio = "Beautiful for not lingering"
-links = []
+links = [
+  { name = "GitHub", icon = "github", url = "https://github.com/kc0105" },
+]
 
 blog_section_path = "/blog"
 
